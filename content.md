@@ -143,3 +143,5 @@ Socials: Instagram, Twitter, LinkedIn [links coming soon]
 - Pricing + Features
 - CTA
 - Footer
+
+// playing around with git nd github
